@@ -1,13 +1,14 @@
 # VoidstrikeTheCrownGateOUTBREAK
 for Spiritual Education (Ubuntu) 
 # 🌌 Project: Voidstrike - The Crown Gate Outbreak
+
+![image](https://github.com/user-attachments/assets/01ae42a4-c876-49d2-a24b-8e426bacd601)
+
 ### A D&D 5e / Solo Leveling Campaign Setting for Spiritual Education (Ubuntu)
 
 This repository contains the core mechanics, system parameters, and narrative lore for a custom tabletop campaign. It merges high-octane modern hunter progression with the philosophical architecture of **Ubuntu** (*"I am because we are"*). 
 
 ---
-
-![image](https://github.com/user-attachments/assets/e31a4b29-1929-4aaa-a9d7-900e64b2e53d)
 
 ## 🛠️ System Overview: The Ubuntu Engine
 
