@@ -5,7 +5,9 @@ for Spiritual Education (Ubuntu)
 
 This repository contains the core mechanics, system parameters, and narrative lore for a custom tabletop campaign. It merges high-octane modern hunter progression with the philosophical architecture of **Ubuntu** (*"I am because we are"*). 
 
----![image](https://github.com/user-attachments/assets/e31a4b29-1929-4aaa-a9d7-900e64b2e53d)
+---
+
+![image](https://github.com/user-attachments/assets/e31a4b29-1929-4aaa-a9d7-900e64b2e53d)
 
 ## 🛠️ System Overview: The Ubuntu Engine
 
